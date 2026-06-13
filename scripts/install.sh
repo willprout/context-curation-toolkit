@@ -22,5 +22,5 @@ if ! grep -q "## Handoffs & Briefings" "${claude_dir}/CLAUDE.md"; then
   } >> "${claude_dir}/CLAUDE.md"
 fi
 
-echo "Installed Fable Thin-Briefing Workflow skills into ${claude_dir}."
+echo "Installed Context Curation Toolkit skills into ${claude_dir}."
 echo "Restart open Claude Code sessions to pick them up."

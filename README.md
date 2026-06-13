@@ -1,4 +1,4 @@
-# The Thin-Briefing Workflow
+# Context Curation Toolkit
 
 **A simple session architecture for working with Claude Fable -- for vibe coders, solo builders, and anyone who manages AI sessions instead of writing code by hand.**
 
@@ -152,8 +152,8 @@ This repo contains the three skills and one shared Claude Code rule file that ma
 Clone this repo and run the installer:
 
 ```bash
-git clone https://github.com/willprout/fable-thin-briefing-workflow.git
-cd fable-thin-briefing-workflow
+git clone https://github.com/willprout/context-curation-toolkit.git
+cd context-curation-toolkit
 ./scripts/install.sh
 ```
 
